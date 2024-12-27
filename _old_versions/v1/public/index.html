@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Force Graph</title>
+  <!-- Import D3 from the server -->
+  <script src="/d3/dist/d3.min.js"></script>
+</head>
+<body>
+  <script type="module">
+    import { ForceGraph } from './forceGraph.js';
+
+    const data = {
+      nodes: [
+        { id: "Node 1" },
+        { id: "Node 2" },
+        { id: "Node 3" }
+      ],
+      links: [
+        { source: "Node 1", target: "Node 2" },
+        { source: "Node 2", target: "Node 3" }
+      ]
+    };
+
+    const graph = ForceGraph(data);
+    document.body.appendChild(graph);
+  </script>
+</body>
+</html>
