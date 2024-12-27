@@ -46,10 +46,10 @@
   - display additional informaton
 
 
-### current
+### v3 = current
 - same as v2, except for the following changes in the forceGraph function:
   - enable zooming and panning
-  - added labels to nodes (just using the node id as label)
+  - added labels to nodes
 
 ### v2
 - same as v1, except for 
