@@ -26,7 +26,6 @@
 - https://community.fabric.microsoft.com/t5/Developer/Network-force-directed-visual-using-power-BI-d3-custom-visual/m-p/645814- 
 
 ## Public network data repos
-
 - https://networkrepository.com
 - https://snap.stanford.edu/data/
 
@@ -34,19 +33,27 @@
 ---
 ---
 
-# Versions of applied D3 in this repo
 
 ## features to add:
 - adjust graph physics
 - display labels only when sufficiently zoomed or rather when node distance is big enough
-- create / source an additional interesting data set for development
-- longer labels with linebreaks
-- hover on nodes:
-  - highlight directly connected nodes
-  - display additional informaton
+- (longer labels with linebreaks - tooltip is the better option)
+  - https://observablehq.com/@cesare/svg-text-and-tspan-word-wrapping
+  - https://gist.github.com/mbostock/7555321
+  - related but cooler:
+    - https://observablehq.com/@mbostock/fit-text-to-circle
 
+## Versions of applied D3 in this repo
 
-### v3 = current
+### v4 = current
+- same as v3, except for the following changes in the forceGraph function:
+  - added tooltips on nodes
+  - added link-highlighting on tooltip
+    - used: https://observablehq.com/@john-guerra/force-directed-graph-with-link-highlighting
+    - another version, which i didnt get to work (tried only for one miniute :D):
+      - https://d3-graph-gallery.com/graph/arc_highlight.html
+
+### v3
 - same as v2, except for the following changes in the forceGraph function:
   - enable zooming and panning
   - added labels to nodes

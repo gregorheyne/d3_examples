@@ -12,7 +12,8 @@ with open(dir_data / 'miserables.json', 'r') as file:
 
 # Process nodes: Add "label" attribute
 for node in data.get("nodes", []):
-    node["label"] = (node["id"] + '\n') * 3
+    node["label"] = node["id"]
+    node["tooltip"] = (node["id"] + '\n') * 3
 
 # Write the updated JSON to a new file
 with open(dir_data / 'miserables_v2.json', 'w') as file:
