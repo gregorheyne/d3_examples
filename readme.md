@@ -35,31 +35,65 @@
 
 
 ## features to add:
+- refactor the code all in callback functions
+- add a legend
+- derive and set a link strength .strength(d => d.value) 
+- collect all relevant variables of the forcegraph function in one place
+- groups with input dictionary:
+  - shapes
 - adjust graph physics
-- display labels only when sufficiently zoomed or rather when node distance is big enough
 - (longer labels with linebreaks - tooltip is the better option)
   - https://observablehq.com/@cesare/svg-text-and-tspan-word-wrapping
   - https://gist.github.com/mbostock/7555321
   - related but cooler:
     - https://observablehq.com/@mbostock/fit-text-to-circle
 
+## ToDo:
+- check/understand the chatGTP generated function LinkHighlighting
+
 ## Versions of applied D3 in this repo
 
-### v4 = current
-- same as v3, except for the following changes in the forceGraph function:
+### v5 = current
+- features:
+  - improved linkhighlighting (new)
+    - only labels and nodes of linked nodes are shown, the rest of the graph is a light grey
+    - linkhighlighting is a stand-alone local function instead of being attached "on the fly to the nodes object
+  - add colorMap and function applyColorMap to color nodes based on group (new)
+  - node labes are only shown above a zoom level threshold (new)
   - added tooltips on nodes
   - added link-highlighting on tooltip
     - used: https://observablehq.com/@john-guerra/force-directed-graph-with-link-highlighting
     - another version, which i didnt get to work (tried only for one miniute :D):
       - https://d3-graph-gallery.com/graph/arc_highlight.html
-
-### v3
-- same as v2, except for the following changes in the forceGraph function:
   - enable zooming and panning
   - added labels to nodes
+  - reading miserables.json on server side
+  - passing it via server route to index.html upon request
+  - using the thus fetched data to call force graph function with
+
+### v4
+- features:
+  - added tooltips on nodes (new)
+  - added link-highlighting on tooltip (new)
+    - used: https://observablehq.com/@john-guerra/force-directed-graph-with-link-highlighting
+    - another version, which i didnt get to work (tried only for one miniute :D):
+      - https://d3-graph-gallery.com/graph/arc_highlight.html
+  - enable zooming and panning
+  - added labels to nodes
+  - reading miserables.json on server side
+  - passing it via server route to index.html upon request
+  - using the thus fetched data to call force graph function with
+
+### v3
+- features:
+  - enable zooming and panning (new)
+  - added labels to nodes (new)
+  - reading miserables.json on server side
+  - passing it via server route to index.html upon request
+  - using the thus fetched data to call force graph function with
 
 ### v2
-- same as v1, except for 
+- features:
   - reading miserables.json on server side
   - passing it via server route to index.html upon request
   - using the thus fetched data to call force graph function with
