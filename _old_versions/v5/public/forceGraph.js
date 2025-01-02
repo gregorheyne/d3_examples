@@ -51,7 +51,7 @@ export function ForceGraph({ nodes, links, colorMap = null }) {
     .data(nodes)
     .join("circle")
     .attr("r", 5)
-    .attr("fill", d => applyColorMap(d))
+    .attr("fill", d => getNodeColor(d))
     .call(drag(simulation))
     .on("mouseenter", (evt, d) => LinkHighlighting(d, true))
     .on("mouseleave", () => LinkHighlighting(null, false));
@@ -115,7 +115,7 @@ export function ForceGraph({ nodes, links, colorMap = null }) {
   }
 
   // Function to apply color mapping
-  function applyColorMap(node) {
+  function getNodeColor(node) {
     return colorMap && node.group in colorMap ? colorMap[node.group] : defaultColor;
   }
  
@@ -159,13 +159,13 @@ export function ForceGraph({ nodes, links, colorMap = null }) {
         });
 
       node
-        .attr("fill", n => (linkedNodes.has(n.id) ? applyColorMap(n) : nonLinkedColor));
+        .attr("fill", n => (linkedNodes.has(n.id) ? getNodeColor(n) : nonLinkedColor));
 
       label
         .attr("display", n => (linkedNodes.has(n.id) ? "block" : "none"));
     } else {
       link.attr("stroke-opacity", 0.5);
-      node.attr("fill", d => applyColorMap(d));
+      node.attr("fill", d => getNodeColor(d));
       label.attr("display", "none");
     }
   }
