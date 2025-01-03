@@ -4,463 +4,463 @@
             "id": "Myriel",
             "group": 1,
             "label": "Myriel",
-            "tooltip": "Myriel\nMyriel\nMyriel\n"
+            "tooltip": "Myriel\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Napoleon",
             "group": 1,
             "label": "Napoleon",
-            "tooltip": "Napoleon\nNapoleon\nNapoleon\n"
+            "tooltip": "Napoleon\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Mlle.Baptistine",
             "group": 1,
             "label": "Mlle.Baptistine",
-            "tooltip": "Mlle.Baptistine\nMlle.Baptistine\nMlle.Baptistine\n"
+            "tooltip": "Mlle.Baptistine\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Mme.Magloire",
             "group": 1,
             "label": "Mme.Magloire",
-            "tooltip": "Mme.Magloire\nMme.Magloire\nMme.Magloire\n"
+            "tooltip": "Mme.Magloire\nTooltip Line 2\nLine 3"
         },
         {
             "id": "CountessdeLo",
             "group": 1,
             "label": "CountessdeLo",
-            "tooltip": "CountessdeLo\nCountessdeLo\nCountessdeLo\n"
+            "tooltip": "CountessdeLo\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Geborand",
             "group": 1,
             "label": "Geborand",
-            "tooltip": "Geborand\nGeborand\nGeborand\n"
+            "tooltip": "Geborand\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Champtercier",
             "group": 1,
             "label": "Champtercier",
-            "tooltip": "Champtercier\nChamptercier\nChamptercier\n"
+            "tooltip": "Champtercier\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Cravatte",
             "group": 1,
             "label": "Cravatte",
-            "tooltip": "Cravatte\nCravatte\nCravatte\n"
+            "tooltip": "Cravatte\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Count",
             "group": 1,
             "label": "Count",
-            "tooltip": "Count\nCount\nCount\n"
+            "tooltip": "Count\nTooltip Line 2\nLine 3"
         },
         {
             "id": "OldMan",
             "group": 1,
             "label": "OldMan",
-            "tooltip": "OldMan\nOldMan\nOldMan\n"
+            "tooltip": "OldMan\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Labarre",
             "group": 2,
             "label": "Labarre",
-            "tooltip": "Labarre\nLabarre\nLabarre\n"
+            "tooltip": "Labarre\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Valjean",
             "group": 2,
             "label": "Valjean",
-            "tooltip": "Valjean\nValjean\nValjean\n"
+            "tooltip": "Valjean\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Marguerite",
             "group": 3,
             "label": "Marguerite",
-            "tooltip": "Marguerite\nMarguerite\nMarguerite\n"
+            "tooltip": "Marguerite\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Mme.deR",
             "group": 2,
             "label": "Mme.deR",
-            "tooltip": "Mme.deR\nMme.deR\nMme.deR\n"
+            "tooltip": "Mme.deR\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Isabeau",
             "group": 2,
             "label": "Isabeau",
-            "tooltip": "Isabeau\nIsabeau\nIsabeau\n"
+            "tooltip": "Isabeau\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Gervais",
             "group": 2,
             "label": "Gervais",
-            "tooltip": "Gervais\nGervais\nGervais\n"
+            "tooltip": "Gervais\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Tholomyes",
             "group": 3,
             "label": "Tholomyes",
-            "tooltip": "Tholomyes\nTholomyes\nTholomyes\n"
+            "tooltip": "Tholomyes\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Listolier",
             "group": 3,
             "label": "Listolier",
-            "tooltip": "Listolier\nListolier\nListolier\n"
+            "tooltip": "Listolier\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Fameuil",
             "group": 3,
             "label": "Fameuil",
-            "tooltip": "Fameuil\nFameuil\nFameuil\n"
+            "tooltip": "Fameuil\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Blacheville",
             "group": 3,
             "label": "Blacheville",
-            "tooltip": "Blacheville\nBlacheville\nBlacheville\n"
+            "tooltip": "Blacheville\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Favourite",
             "group": 3,
             "label": "Favourite",
-            "tooltip": "Favourite\nFavourite\nFavourite\n"
+            "tooltip": "Favourite\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Dahlia",
             "group": 3,
             "label": "Dahlia",
-            "tooltip": "Dahlia\nDahlia\nDahlia\n"
+            "tooltip": "Dahlia\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Zephine",
             "group": 3,
             "label": "Zephine",
-            "tooltip": "Zephine\nZephine\nZephine\n"
+            "tooltip": "Zephine\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Fantine",
             "group": 3,
             "label": "Fantine",
-            "tooltip": "Fantine\nFantine\nFantine\n"
+            "tooltip": "Fantine\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Mme.Thenardier",
             "group": 4,
             "label": "Mme.Thenardier",
-            "tooltip": "Mme.Thenardier\nMme.Thenardier\nMme.Thenardier\n"
+            "tooltip": "Mme.Thenardier\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Thenardier",
             "group": 4,
             "label": "Thenardier",
-            "tooltip": "Thenardier\nThenardier\nThenardier\n"
+            "tooltip": "Thenardier\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Cosette",
             "group": 5,
             "label": "Cosette",
-            "tooltip": "Cosette\nCosette\nCosette\n"
+            "tooltip": "Cosette\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Javert",
             "group": 4,
             "label": "Javert",
-            "tooltip": "Javert\nJavert\nJavert\n"
+            "tooltip": "Javert\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Fauchelevent",
             "group": 0,
             "label": "Fauchelevent",
-            "tooltip": "Fauchelevent\nFauchelevent\nFauchelevent\n"
+            "tooltip": "Fauchelevent\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Bamatabois",
             "group": 2,
             "label": "Bamatabois",
-            "tooltip": "Bamatabois\nBamatabois\nBamatabois\n"
+            "tooltip": "Bamatabois\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Perpetue",
             "group": 3,
             "label": "Perpetue",
-            "tooltip": "Perpetue\nPerpetue\nPerpetue\n"
+            "tooltip": "Perpetue\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Simplice",
             "group": 2,
             "label": "Simplice",
-            "tooltip": "Simplice\nSimplice\nSimplice\n"
+            "tooltip": "Simplice\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Scaufflaire",
             "group": 2,
             "label": "Scaufflaire",
-            "tooltip": "Scaufflaire\nScaufflaire\nScaufflaire\n"
+            "tooltip": "Scaufflaire\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Woman1",
             "group": 2,
             "label": "Woman1",
-            "tooltip": "Woman1\nWoman1\nWoman1\n"
+            "tooltip": "Woman1\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Judge",
             "group": 2,
             "label": "Judge",
-            "tooltip": "Judge\nJudge\nJudge\n"
+            "tooltip": "Judge\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Champmathieu",
             "group": 2,
             "label": "Champmathieu",
-            "tooltip": "Champmathieu\nChampmathieu\nChampmathieu\n"
+            "tooltip": "Champmathieu\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Brevet",
             "group": 2,
             "label": "Brevet",
-            "tooltip": "Brevet\nBrevet\nBrevet\n"
+            "tooltip": "Brevet\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Chenildieu",
             "group": 2,
             "label": "Chenildieu",
-            "tooltip": "Chenildieu\nChenildieu\nChenildieu\n"
+            "tooltip": "Chenildieu\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Cochepaille",
             "group": 2,
             "label": "Cochepaille",
-            "tooltip": "Cochepaille\nCochepaille\nCochepaille\n"
+            "tooltip": "Cochepaille\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Pontmercy",
             "group": 4,
             "label": "Pontmercy",
-            "tooltip": "Pontmercy\nPontmercy\nPontmercy\n"
+            "tooltip": "Pontmercy\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Boulatruelle",
             "group": 6,
             "label": "Boulatruelle",
-            "tooltip": "Boulatruelle\nBoulatruelle\nBoulatruelle\n"
+            "tooltip": "Boulatruelle\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Eponine",
             "group": 4,
             "label": "Eponine",
-            "tooltip": "Eponine\nEponine\nEponine\n"
+            "tooltip": "Eponine\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Anzelma",
             "group": 4,
             "label": "Anzelma",
-            "tooltip": "Anzelma\nAnzelma\nAnzelma\n"
+            "tooltip": "Anzelma\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Woman2",
             "group": 5,
             "label": "Woman2",
-            "tooltip": "Woman2\nWoman2\nWoman2\n"
+            "tooltip": "Woman2\nTooltip Line 2\nLine 3"
         },
         {
             "id": "MotherInnocent",
             "group": 0,
             "label": "MotherInnocent",
-            "tooltip": "MotherInnocent\nMotherInnocent\nMotherInnocent\n"
+            "tooltip": "MotherInnocent\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Gribier",
             "group": 0,
             "label": "Gribier",
-            "tooltip": "Gribier\nGribier\nGribier\n"
+            "tooltip": "Gribier\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Jondrette",
             "group": 7,
             "label": "Jondrette",
-            "tooltip": "Jondrette\nJondrette\nJondrette\n"
+            "tooltip": "Jondrette\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Mme.Burgon",
             "group": 7,
             "label": "Mme.Burgon",
-            "tooltip": "Mme.Burgon\nMme.Burgon\nMme.Burgon\n"
+            "tooltip": "Mme.Burgon\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Gavroche",
             "group": 8,
             "label": "Gavroche",
-            "tooltip": "Gavroche\nGavroche\nGavroche\n"
+            "tooltip": "Gavroche\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Gillenormand",
             "group": 5,
             "label": "Gillenormand",
-            "tooltip": "Gillenormand\nGillenormand\nGillenormand\n"
+            "tooltip": "Gillenormand\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Magnon",
             "group": 5,
             "label": "Magnon",
-            "tooltip": "Magnon\nMagnon\nMagnon\n"
+            "tooltip": "Magnon\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Mlle.Gillenormand",
             "group": 5,
             "label": "Mlle.Gillenormand",
-            "tooltip": "Mlle.Gillenormand\nMlle.Gillenormand\nMlle.Gillenormand\n"
+            "tooltip": "Mlle.Gillenormand\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Mme.Pontmercy",
             "group": 5,
             "label": "Mme.Pontmercy",
-            "tooltip": "Mme.Pontmercy\nMme.Pontmercy\nMme.Pontmercy\n"
+            "tooltip": "Mme.Pontmercy\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Mlle.Vaubois",
             "group": 5,
             "label": "Mlle.Vaubois",
-            "tooltip": "Mlle.Vaubois\nMlle.Vaubois\nMlle.Vaubois\n"
+            "tooltip": "Mlle.Vaubois\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Lt.Gillenormand",
             "group": 5,
             "label": "Lt.Gillenormand",
-            "tooltip": "Lt.Gillenormand\nLt.Gillenormand\nLt.Gillenormand\n"
+            "tooltip": "Lt.Gillenormand\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Marius",
             "group": 8,
             "label": "Marius",
-            "tooltip": "Marius\nMarius\nMarius\n"
+            "tooltip": "Marius\nTooltip Line 2\nLine 3"
         },
         {
             "id": "BaronessT",
             "group": 5,
             "label": "BaronessT",
-            "tooltip": "BaronessT\nBaronessT\nBaronessT\n"
+            "tooltip": "BaronessT\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Mabeuf",
             "group": 8,
             "label": "Mabeuf",
-            "tooltip": "Mabeuf\nMabeuf\nMabeuf\n"
+            "tooltip": "Mabeuf\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Enjolras",
             "group": 8,
             "label": "Enjolras",
-            "tooltip": "Enjolras\nEnjolras\nEnjolras\n"
+            "tooltip": "Enjolras\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Combeferre",
             "group": 8,
             "label": "Combeferre",
-            "tooltip": "Combeferre\nCombeferre\nCombeferre\n"
+            "tooltip": "Combeferre\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Prouvaire",
             "group": 8,
             "label": "Prouvaire",
-            "tooltip": "Prouvaire\nProuvaire\nProuvaire\n"
+            "tooltip": "Prouvaire\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Feuilly",
             "group": 8,
             "label": "Feuilly",
-            "tooltip": "Feuilly\nFeuilly\nFeuilly\n"
+            "tooltip": "Feuilly\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Courfeyrac",
             "group": 8,
             "label": "Courfeyrac",
-            "tooltip": "Courfeyrac\nCourfeyrac\nCourfeyrac\n"
+            "tooltip": "Courfeyrac\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Bahorel",
             "group": 8,
             "label": "Bahorel",
-            "tooltip": "Bahorel\nBahorel\nBahorel\n"
+            "tooltip": "Bahorel\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Bossuet",
             "group": 8,
             "label": "Bossuet",
-            "tooltip": "Bossuet\nBossuet\nBossuet\n"
+            "tooltip": "Bossuet\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Joly",
             "group": 8,
             "label": "Joly",
-            "tooltip": "Joly\nJoly\nJoly\n"
+            "tooltip": "Joly\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Grantaire",
             "group": 8,
             "label": "Grantaire",
-            "tooltip": "Grantaire\nGrantaire\nGrantaire\n"
+            "tooltip": "Grantaire\nTooltip Line 2\nLine 3"
         },
         {
             "id": "MotherPlutarch",
             "group": 9,
             "label": "MotherPlutarch",
-            "tooltip": "MotherPlutarch\nMotherPlutarch\nMotherPlutarch\n"
+            "tooltip": "MotherPlutarch\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Gueulemer",
             "group": 4,
             "label": "Gueulemer",
-            "tooltip": "Gueulemer\nGueulemer\nGueulemer\n"
+            "tooltip": "Gueulemer\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Babet",
             "group": 4,
             "label": "Babet",
-            "tooltip": "Babet\nBabet\nBabet\n"
+            "tooltip": "Babet\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Claquesous",
             "group": 4,
             "label": "Claquesous",
-            "tooltip": "Claquesous\nClaquesous\nClaquesous\n"
+            "tooltip": "Claquesous\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Montparnasse",
             "group": 4,
             "label": "Montparnasse",
-            "tooltip": "Montparnasse\nMontparnasse\nMontparnasse\n"
+            "tooltip": "Montparnasse\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Toussaint",
             "group": 5,
             "label": "Toussaint",
-            "tooltip": "Toussaint\nToussaint\nToussaint\n"
+            "tooltip": "Toussaint\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Child1",
             "group": 10,
             "label": "Child1",
-            "tooltip": "Child1\nChild1\nChild1\n"
+            "tooltip": "Child1\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Child2",
             "group": 10,
             "label": "Child2",
-            "tooltip": "Child2\nChild2\nChild2\n"
+            "tooltip": "Child2\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Brujon",
             "group": 4,
             "label": "Brujon",
-            "tooltip": "Brujon\nBrujon\nBrujon\n"
+            "tooltip": "Brujon\nTooltip Line 2\nLine 3"
         },
         {
             "id": "Mme.Hucheloup",
             "group": 8,
             "label": "Mme.Hucheloup",
-            "tooltip": "Mme.Hucheloup\nMme.Hucheloup\nMme.Hucheloup\n"
+            "tooltip": "Mme.Hucheloup\nTooltip Line 2\nLine 3"
         }
     ],
     "links": [

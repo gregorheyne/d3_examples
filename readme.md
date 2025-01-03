@@ -35,11 +35,16 @@
 
 
 ## features to add:
-- add a legend
-- derive and set a link strength .strength(d => d.value) 
+- make node size flexible?
+  - can/should node sizes be specified in pixel size then?
+  - requires label moving as well
+- links:
+  - link thickness as parameter?
+  - curve them a bit?
 - add a focusNodes function that works on clicking on a node
   - should also have a search for node(s) field
   - the graph should be panned (and zoomed) such that the nodes in focus are in the middle
+- derive and set a link strength .strength(d => d.value) 
 - refactor the code all in callback functions
 - collect all relevant variables of the forcegraph function in one place
 - adjust graph physics
@@ -54,7 +59,29 @@
 
 ## Versions of applied D3 in this repo
 
-### v6 = current
+### v7 = current
+- features:
+  - added an interactive and collabsible legend (new)
+  - allows for node shape being either circle or rectangle, dependent on property "shape" in "nodegroups"
+  - replaced colormap with attribute 'color' in the new property 'nodegroups'
+  - improved linkhighlighting
+    - only labels and nodes of linked nodes are shown, the rest of the graph is a light grey
+    - linkhighlighting is a stand-alone local function instead of being attached "on the fly to the nodes object
+  - add colorMap and function getNodeColor to color nodes based on group
+  - node labes are only shown above a zoom level threshold
+  - added tooltips on nodes
+  - added link-highlighting on tooltip
+    - used: https://observablehq.com/@john-guerra/force-directed-graph-with-link-highlighting
+    - another version, which i didnt get to work (tried only for one miniute :D):
+      - https://d3-graph-gallery.com/graph/arc_highlight.html
+  - enable zooming and panning
+  - added labels to nodes
+  - reading miserables.json on server side
+  - passing it via server route to index.html upon request
+  - using the thus fetched data to call force graph function with
+
+
+### v6
 - features:
   - allows for node shape being either circle or rectangle, dependent on property "shape" in "nodegroups" (new)
   - replaced colormap with attribute 'color' in the new property 'nodegroups' (new)
@@ -73,7 +100,6 @@
   - reading miserables.json on server side
   - passing it via server route to index.html upon request
   - using the thus fetched data to call force graph function with
-
 
 ### v5
 - features:
